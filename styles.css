@@ -1,0 +1,14 @@
+/* --- Global Styles --- */
+body {
+  background-color: aqua;
+}
+
+h2 {
+  display: block;
+}
+
+button {
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+}
